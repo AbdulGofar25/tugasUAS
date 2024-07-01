@@ -1,7 +1,7 @@
 # tugasUAS
-# Nama Kelompok 
-| NO |        ANGGOTA        |   NIM         |  LINK YOUTUBE  
-|----|-----------------------|---------------|----------------
+# Nama Kelompok 5
+| NO |        ANGGOTA        |   NIM         |
+|----|-----------------------|---------------|
 | 1  |Abdul Gofar            | 312210504     |
 | 2  |Kholid Wahyudi         | 312210345     |
 | 3  |Febri Tri Arie Sakti   | 312210542     |
