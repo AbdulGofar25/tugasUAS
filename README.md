@@ -1,11 +1,12 @@
 # tugasUAS
 # Nama Kelompok 5
-| NO |        ANGGOTA        |   NIM         |
-|----|-----------------------|---------------|
-| 1  |Abdul Gofar            | 312210504     |
-| 2  |Kholid Wahyudi         | 312210345     |
-| 3  |Febri Tri Arie Sakti   | 312210542     |
+| NO |        ANGGOTA        |   NIM         |  KELAS   | MATA KULIAH           |
+|----|-----------------------|---------------|----------|-----------------------|
+| 1  |Abdul Gofar            | 312210504     |TI.22.B.2 | Pemrograman Mobile 2  |
+| 2  |Kholid Wahyudi         | 312210345     |TI.22.B.2 | Pemrograman Mobile 2  |
+| 3  |Febri Tri Arie Sakti   | 312210542     |TI.22.B.2 | Pemrograman Mobile 2  |
 
+# Deskripsi
 ## Penjelasan Aplikasi
 KasAppAndroid adalah aplikasi Android untuk manajemen kas yang memungkinkan pengguna untuk mencatat pemasukan dan pengeluaran serta melihat laporan keuangan. <br>
 Aplikasi ini dirancang untuk membantu individu atau bisnis kecil dalam mengelola keuangan mereka secara efektif.<br>
