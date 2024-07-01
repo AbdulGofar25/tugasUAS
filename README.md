@@ -1,8 +1,8 @@
 # tugasUAS
 # Nama Kelompok 
-## Abdul Gofar 
-## Kholid Whyudi
-## Febri Tri Arie Sakti
+### 1. abdul Gofar
+### 2. Kholid Whyudi 
+### 3. Febri Tri Arie Sakti
 
 ## Penjelasan Aplikasi
 KasAppAndroid adalah aplikasi Android untuk manajemen kas yang memungkinkan pengguna untuk mencatat pemasukan dan pengeluaran serta melihat laporan keuangan. <br>
